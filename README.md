@@ -9,7 +9,7 @@
 A comprehensive Erlang learning path covering functional programming fundamentals, concurrency, and fault-tolerant systems through granular code examples.
 
 ## 📊 Progress
-Currently: 20/60 Steps Planned
+Currently: 40/60 Steps Planned
 
 ### Phase 1: Beginner
 | Step | Topic | Description |
@@ -34,6 +34,30 @@ Currently: 20/60 Steps Planned
 | 18 | Links & Monitors | Managing process dependencies |
 | 19 | Registered Processes | Naming processes globally |
 | 20 | ETS Tables | High-performance in-memory storage |
+
+### Phase 2: Intermediate
+| Step | Topic | Description |
+|---|---|---|
+| 01 | List Processing | Advanced usage of the lists module |
+| 02 | Maps & Dicts | Key-Value storage comparison |
+| 03 | Sets & Queues | Specialized data collections |
+| 04 | Std Libraries | Timer, OS, and Calendar modules |
+| 05 | File System | Directory and file metadata ops |
+| 06 | Header Files | Sharing records and macros with .hrl |
+| 07 | Binary Construction | Building binary data efficiently |
+| 08 | Bit Syntax | Advanced binary pattern matching |
+| 09 | Nested Comprehensions | Complex data transformations |
+| 10 | Dynamic Code | Module loading and code hot-swap |
+| 11 | Preprocessor | Macros and compile-time defines |
+| 12 | Gen_Server Intro | OTP behavior for generic servers |
+| 13 | Supervisor Intro | Fault tolerance and process trees |
+| 14 | State Machines | Handling states with gen_statem |
+| 15 | Distributed Nodes | Communication between Erlang nodes |
+| 16 | Ports & Interop | Interfacing with external OS programs |
+| 17 | App Structure | The .app file and application behavior |
+| 18 | Rebar3 Workflow | Standard Erlang build tool basics |
+| 19 | Types & Specs | Static analysis with dialyzer specs |
+| 20 | EUnit Testing | Unit testing fundamentals |
 
 ## 🛠️ How to Run
 
