@@ -1,6 +1,9 @@
 %% @doc Intermediate 01: Advanced List Processing
 -module('01_list_processing').
--export([demo/0]).
+-export([demo/0, start/0]).
+
+start() ->
+    io:format("Result: ~p~n", [demo()]).
 
 demo() ->
     L = [1, 2, 3, 4, 5],
