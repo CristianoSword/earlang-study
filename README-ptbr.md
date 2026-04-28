@@ -9,7 +9,7 @@
 Um guia abrangente para aprender Erlang, cobrindo desde fundamentos de programação funcional até concorrência e sistemas tolerantes a falhas, através de exemplos de código granulares.
 
 ## 📊 Progresso
-Atualmente: 20/60 Passos Planejados
+Atualmente: 40/60 Passos Planejados
 
 ### Fase 1: Iniciante (Beginner)
 | Passo | Tópico | Descrição |
@@ -34,6 +34,30 @@ Atualmente: 20/60 Passos Planejados
 | 18 | Links e Monitors | Gerenciando dependências de processos |
 | 19 | Processos Registrados | Nomeando processos globalmente |
 | 20 | Tabelas ETS | Armazenamento em memória de alta performance |
+
+### Fase 2: Intermediário
+| Passo | Tópico | Descrição |
+|---|---|---|
+| 01 | Processamento de Listas | Uso avançado do módulo lists |
+| 02 | Maps e Dicts | Comparação de armazenamento Chave-Valor |
+| 03 | Sets e Queues | Coleções de dados especializadas |
+| 04 | Bibliotecas Padrão | Módulos Timer, OS e Calendar |
+| 05 | Sistema de Arquivos | Operações de metadados e diretórios |
+| 06 | Arquivos de Cabeçalho | Compartilhando records e macros com .hrl |
+| 07 | Construção Binária | Criando dados binários eficientemente |
+| 08 | Sintaxe de Bits | Pattern matching binário avançado |
+| 09 | Comprehensions Aninhadas | Transformações complexas de dados |
+| 10 | Código Dinâmico | Carregamento de módulos e hot-swap |
+| 11 | Pré-processador | Macros e definições em tempo de compilação |
+| 12 | Intro ao Gen_Server | Comportamento OTP para servidores genéricos |
+| 13 | Intro ao Supervisor | Tolerância a falhas e árvores de processos |
+| 14 | Máquinas de Estado | Gerenciando estados com gen_statem |
+| 15 | Nós Distribuídos | Comunicação entre nós Erlang |
+| 16 | Portas e Interop | Interface com programas externos do SO |
+| 17 | Estrutura de App | O arquivo .app e comportamento de aplicação |
+| 18 | Workflow Rebar3 | Ferramenta de build padrão do Erlang |
+| 19 | Tipos e Specs | Análise estática com specs do dialyzer |
+| 20 | Testes EUnit | Fundamentos de testes unitários |
 
 ## 🛠️ Como Executar
 
