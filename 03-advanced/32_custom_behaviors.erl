@@ -15,3 +15,4 @@ behaviour_info(callbacks) ->
     [{init, 1}, {handle_message, 2}];
 behaviour_info(_) ->
     undefined.
+
