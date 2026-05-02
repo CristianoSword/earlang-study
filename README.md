@@ -9,7 +9,7 @@
 A comprehensive Erlang learning path covering functional programming fundamentals, concurrency, and fault-tolerant systems through granular code examples.
 
 ## 📊 Progress
-Currently: 40/60 Steps Planned
+Currently: 60/60 Steps Planned
 
 ### Phase 1: Beginner
 | Step | Topic | Description |
@@ -58,6 +58,30 @@ Currently: 40/60 Steps Planned
 | 18 | Rebar3 Workflow | Standard Erlang build tool basics |
 | 19 | Types & Specs | Static analysis with dialyzer specs |
 | 20 | EUnit Testing | Unit testing fundamentals |
+
+### Phase 3: Advanced
+| Step | Topic | Description |
+|---|---|---|
+| 21 | Dets Storage | Disk-based term storage |
+| 22 | Mnesia Intro | Soft real-time distributed DB |
+| 23 | Mnesia Transactions | ACID properties in Mnesia |
+| 24 | Mnesia Indexes | Optimizing non-primary lookups |
+| 25 | Persistent Term | Fast read-only data access |
+| 26 | Gen_UDP | Connectionless networking |
+| 27 | Gen_TCP | Reliable streaming data |
+| 28 | SSL/TLS | Secure communications |
+| 29 | Ports Advanced | Interop with OS processes |
+| 30 | NIFs Intro | Interfacing with C libraries |
+| 31 | Dynamic Supervisors | Managing processes on-the-fly |
+| 32 | Custom Behaviors | Defining callback patterns |
+| 33 | Process Groups | Grouping processes globally |
+| 34 | Global Registry | Global name registration |
+| 35 | Distributed Mnesia | Database replication |
+| 36 | Observer | GUI monitoring tool |
+| 37 | Profiling | Performance analysis (fprof) |
+| 38 | Tracing | Runtime function inspection |
+| 39 | Release Mgmt | Production packaging with relx |
+| 40 | Capstone Project | Distributed chat implementation |
 
 ## 🛠️ How to Run
 

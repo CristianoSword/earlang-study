@@ -9,7 +9,7 @@
 Um guia abrangente para aprender Erlang, cobrindo desde fundamentos de programação funcional até concorrência e sistemas tolerantes a falhas, através de exemplos de código granulares.
 
 ## 📊 Progresso
-Atualmente: 40/60 Passos Planejados
+Atualmente: 60/60 Passos Planejados
 
 ### Fase 1: Iniciante (Beginner)
 | Passo | Tópico | Descrição |
@@ -58,6 +58,30 @@ Atualmente: 40/60 Passos Planejados
 | 18 | Workflow Rebar3 | Ferramenta de build padrão do Erlang |
 | 19 | Tipos e Specs | Análise estática com specs do dialyzer |
 | 20 | Testes EUnit | Fundamentos de testes unitários |
+
+### Fase 3: Avançado (Advanced)
+| Passo | Tópico | Descrição |
+|---|---|---|
+| 21 | Armazenamento Dets | Armazenamento de termos em disco |
+| 22 | Intro Mnesia | Banco de dados distribuído soft real-time |
+| 23 | Transações Mnesia | Propriedades ACID no Mnesia |
+| 24 | Índices Mnesia | Otimizando buscas não-primárias |
+| 25 | Termos Persistentes | Acesso rápido a dados read-only |
+| 26 | Gen_UDP | Networking sem conexão |
+| 27 | Gen_TCP | Streaming de dados confiável |
+| 28 | SSL/TLS | Comunicações seguras |
+| 29 | Portas Avançadas | Interoperabilidade com processos do SO |
+| 30 | Intro NIFs | Interface com bibliotecas C |
+| 31 | Supervisores Dinâmicos | Gerenciando processos on-the-fly |
+| 32 | Comportamentos Custom | Definindo padrões de callback |
+| 33 | Grupos de Processos | Agrupamento global de processos |
+| 34 | Registro Global | Registro de nomes em todo o cluster |
+| 35 | Mnesia Distribuído | Replicação de banco de dados |
+| 36 | Observer | Ferramenta GUI de monitoramento |
+| 37 | Profiling | Análise de performance (fprof) |
+| 38 | Tracing | Inspeção de funções em runtime |
+| 39 | Gestão de Releases | Empacotamento para produção com relx |
+| 40 | Projeto Final | Implementação de chat distribuído |
 
 ## 🛠️ Como Executar
 
